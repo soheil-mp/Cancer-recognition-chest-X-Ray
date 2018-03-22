@@ -24,4 +24,4 @@ Class activation map (MAP):
 <img src="./Screen Shot 2018-03-22 at 21.23.54.png" aligh="right">
 
 
-The accuracy of model is around 94%.
+The accuracy of model is 94%.
