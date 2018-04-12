@@ -15,13 +15,9 @@ Classifying the chest x-ray with Keras into 14 illness of:
 - Effusion
 - Infiltration
 
-<img src="./Screen Shot 2018-03-22 at 21.18.27.png">
+# End result:
 
-
-Class activation map (MAP):
-
-
-<img src="./Screen Shot 2018-03-22 at 21.23.54.png" aligh="right">
+<img src="./result.png" aligh="right">
 
 
 The accuracy of model is 94%.
