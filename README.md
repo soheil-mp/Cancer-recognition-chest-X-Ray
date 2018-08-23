@@ -13,7 +13,7 @@ Here we ensemble 3 diffrent models (MobileNet, Inception, Xception) and then cla
 # Evalutation
 each class has been evaluated seperatly and the exact information can be found in notebook. Now let's take a look at the evaluation of Pneumothorax.
 
-<img src="./assets/pneumothorax_evaluation.png>
+<img src="./assets/pneumothorax_evaluation.png">
 
 # Usage
 Run "prediction_and_localization.py" and enter the location of your xray image for getting the predictions.
