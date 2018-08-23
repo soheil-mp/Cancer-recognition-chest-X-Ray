@@ -1,26 +1,15 @@
 # Chest-X-Ray
-Classifying the chest x-ray with Keras into 14 illness of:
-- Hernia
-- Pneumonia
-- Fibrosis
-- Edema
-- Emphysema
-- Cardiomegaly
-- Pleural_Thickening
-- Consolidation
-- Pneumothorax
-- Mass
-- Nodule
-- Atelectasis
+Classifying and localizing x-ray images into 5 category of 
+- Normal 
+- Infiltration 
+- Atelectasis 
 - Effusion
-- Infiltration
+- Pneumothorax
 
 # End result:
 
 <img src="./assets/result.png" aligh="right">
 
 
-The accuracy of model is 94%.
-
 # Usage
-Run "Prediction and Localization.py" and enter the location of your xray image for getting the predictions.
+Run "prediction_and_localization.py" and enter the location of your xray image for getting the predictions.
