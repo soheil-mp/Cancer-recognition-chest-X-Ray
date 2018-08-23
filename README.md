@@ -1,6 +1,6 @@
 # Chest-X-Ray
 Classifying the chest x-ray with Keras into 14 illness of:
-- Hernia 
+- Hernia
 - Pneumonia
 - Fibrosis
 - Edema
@@ -17,11 +17,10 @@ Classifying the chest x-ray with Keras into 14 illness of:
 
 # End result:
 
-<img src="./result.png" aligh="right">
+<img src="./assets/result.png" aligh="right">
 
 
 The accuracy of model is 94%.
 
 # Usage
 Run "Prediction and Localization.py" and enter the location of your xray image for getting the predictions.
- 
